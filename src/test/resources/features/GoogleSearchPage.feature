@@ -1,4 +1,5 @@
-
+//we can give tags at feature level instead of scenario level
+@phaseOne
 Feature: Google Page Search Function
   
 
